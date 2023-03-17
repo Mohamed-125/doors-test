@@ -34,7 +34,9 @@ const Navbar = () => {
         <a href="#مميزاتنا" onClick={openCloseNav}>
           مميزاتنا
         </a>
-        <a href="#تواصل معنا" onClick={openCloseNav}></a>
+        <a href="#تواصل معنا" onClick={openCloseNav}>
+          تواصل معنا{" "}
+        </a>
         <a href="#المكافأت" onClick={openCloseNav}>
           مكافئتك
         </a>
