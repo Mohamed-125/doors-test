@@ -19,7 +19,6 @@ a {
   margin: 0;
   direction: rtl;
   box-sizing: border-box;
-  border: 2px solid red;
   font-family: "Cairo", sans-serif;
   -webkit-tap-highlight-color: transparent;
 }

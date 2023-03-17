@@ -1,7 +1,6 @@
 import Head from "next/head";
-import Image from "next/image";
 import Navbar from "../components/Navbar";
-import Section from "../components/section";
+import Section from "../components/Section";
 import التوصيل_مجاني from "../assets/التوصيل مجاني.svg";
 import خدمه_العملاء from "../assets/خدمه العملاء.svg";
 import خدمه_ضامن from "../assets/خدمه ضامن.svg";
