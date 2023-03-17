@@ -14,7 +14,7 @@ const Navbar = () => {
       <div className={styles.navLinks}>
         <a href="#home">أبواب</a>
         <a href="#مميزاتنا">مميزاتنا</a>
-        <a href="تواصل معنا">تواصل معنا </a>
+        <a href="#تواصل معنا ">تواصل معنا </a>
         <a href="#المكافأت">مكافئتك</a>
         <a href="#اراء">أراء مستخدمينا</a>
       </div>
@@ -34,9 +34,7 @@ const Navbar = () => {
         <a href="#مميزاتنا" onClick={openCloseNav}>
           مميزاتنا
         </a>
-        <a href="#تواصل معنا" onClick={openCloseNav}>
-          تواصل معنا
-        </a>
+        <a href="#تواصل معنا" onClick={openCloseNav}></a>
         <a href="#المكافأت" onClick={openCloseNav}>
           مكافئتك
         </a>
